@@ -14,7 +14,7 @@ pre: " <b> 1.7. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 5 | - Tìm hiểu các khái niệm cốt lõi về Docker (Container, Image, Dockerfile); viết thử nghiệm Dockerfile để đóng gói ứng dụng. | 29/05/2026 | 29/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Tìm hiểu các khái niệm cốt lõi về Docker (Container, Image, Dockerfile); viết thử nghiệm Dockerfile để đóng gói ứng dụng. | 29/05/2026 | 29/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 2 | - Nghiên cứu dịch vụ Amazon ECR; thực hành khởi tạo kho lưu trữ riêng tư (Private Repository) và quản lý các Docker Image. | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 | - Tìm hiểu kiến thức nền tảng và thành phần kiến trúc của Amazon ECS (Cluster, Task Definition, Service, Fargate/EC2 launch type). | 02/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | - **Thực hành:** <br>Đóng gói ứng dụng web hoàn chỉnh thành Docker Image, thực hiện tag và đẩy (push) image lên Amazon ECR. | 03/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
