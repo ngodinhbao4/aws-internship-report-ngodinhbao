@@ -14,7 +14,7 @@ pre: " <b> 1.8. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 5 | - Tìm hiểu lý thuyết tổng quan về CI/CD; nghiên cứu cách lập lịch và tự động hóa quy trình phát hành phần mềm trên AWS. | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - Tìm hiểu lý thuyết tổng quan về CI/CD; nghiên cứu cách lập lịch và tự động hóa quy trình phát hành phần mềm trên AWS. | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 2 | - Tìm hiểu dịch vụ AWS CodeBuild; viết file cấu hình `buildspec.yml` để tự động hóa quá trình biên dịch mã nguồn và đóng gói ứng dụng. | 08/06/2026 | 08/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 | - Nghiên cứu dịch vụ AWS CodeDeploy; viết file cấu hình `appspec.yml` và tìm hiểu các chiến lược triển khai an toàn (In-place, Blue/Green). | 09/06/2026 | 09/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | - **Thực hành:** <br>Cấu hình AWS CodePipeline để kết nối các giai đoạn (Source, Build, Deploy) thành một luồng tự động hóa hoàn chỉnh từ kho lưu trữ. | 10/06/2026 | 10/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
