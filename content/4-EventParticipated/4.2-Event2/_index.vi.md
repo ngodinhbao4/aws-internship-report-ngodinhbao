@@ -27,7 +27,7 @@ pre: " <b> 4.3. </b> "
 - **Anh Trung** - Founder & CEO tại R AI (Cựu Founder từ Y Combinator, đã từng exit bán công ty cho Google).
 - **Anh Nguyên & Chị Bảo** - Cloud Engineers tại Cloud Kinetic.
 - **Anh Trường (Wayne) & Chị Minh Anh** - AI Solution Team tại Noventic.
-- **Bạn Nguyễn Ngô Toàn** - AWS Security Builder.
+- **Bạn Toàn Nguyễn** - AWS Security Builder.
 
 ---
 
