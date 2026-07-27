@@ -24,7 +24,7 @@ pre: " <b> 4.1. </b> "
 - **Anh Nguyễn Gia Hưng** - Solution Architect tại AWS Việt Nam & Founder FCAJ.
 - **Anh Tịnh Trương** - Platform Engineer tại Gotamic.
 - **Bạn Hải Anh** - Engineer tại Pacific Việt Nam (AWS Speaker tại Singapore & Silicon Valley).
-- **Anh Nguyễn Hữu Thịnh** - DevOps Engineer.
+- **Anh Nguyễn Tuấn Thịnh** - DevOps Engineer.
 - **Bạn Uyển & Bạn Thảo** - Kỹ sư phần mềm tại Gotamic (Winner Hackathon).
 - **Chuyên gia Công nghệ** - Đại diện Khối Công nghệ & Khối Quản trị Rủi ro từ VPBank.
 
