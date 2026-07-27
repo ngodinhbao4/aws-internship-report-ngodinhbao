@@ -25,8 +25,8 @@ pre: " <b> 4.4. </b> "
 - **Mr. Nguyen Gia Hung** - Head of Solutions Architecture at AWS Vietnam.
 - **One Team (1st Place AWS Track)** - Creators of the AI-Powered Conversational Ordering Agent.
 - **Signal Scout / Dream AI (2nd Place AWS Track)** - Creators of the Multi-Agent Corporate Intelligence System.
-- **Plan B Team** - Developers of the SA Professional AI-Native Architecture App.
-- **3K / Shepherd Team** - Developers of the Real-Time Computer Vision & Crowd Flow Control Platform.
+- **Plan V Team** - Developers of the SA Professional AI-Native Architecture App.
+- **3Ka / Shepherd Team** - Developers of the Real-Time Computer Vision & Crowd Flow Control Platform.
 - **Six Pillars Team** - Developers of the Adaptive Workflow Engine for Anti-Money Laundering (AML).
 
 ---
