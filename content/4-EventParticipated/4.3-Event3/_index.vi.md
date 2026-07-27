@@ -25,8 +25,8 @@ pre: " <b> 4.4. </b> "
 - **Mr. Nguyễn Gia Hưng** - Head of Solutions Architecture tại AWS Vietnam.
 - **One Team (Giải Nhất Track AWS)** - Nhóm phát triển AI Agent đặt hàng tự động qua đoạn chat.
 - **Signal Scout / Dream AI (Giải Nhì Track AWS)** - Nhóm phát triển Hệ thống Trí tuệ Doanh nghiệp Multi-Agent.
-- **Team Plan B** - Nhóm phát triển Ứng dụng Thiết kế Kiến trúc AI-Native dành cho SA.
-- **Team 3K / Shepherd** - Nhóm phát triển Nền tảng Computer Vision & Điều phối Đám đông Thời gian thực.
+- **Team Plan V** - Nhóm phát triển Ứng dụng Thiết kế Kiến trúc AI-Native dành cho SA.
+- **Team 3Ka / Shepherd** - Nhóm phát triển Nền tảng Computer Vision & Điều phối Đám đông Thời gian thực.
 - **Team Six Pillars** - Nhóm phát triển Động cơ Workflow Linh hoạt cho Phòng chống Rửa tiền (AML).
 
 ---
