@@ -24,7 +24,7 @@ pre: " <b> 4.1. </b> "
 - **Mr. Nguyen Gia Hung** - Solution Architect at AWS Vietnam & FCAJ Founder.
 - **Mr. Tinh Truong** - Platform Engineer at Gotamic.
 - **Mr. Hai Anh** - Engineer at Pacific Vietnam (AWS Speaker at Singapore & Silicon Valley summits).
-- **Mr. Nguyen Huu Thinh** - DevOps Engineer.
+- **Mr. Nguyen Tuan Thinh** - DevOps Engineer.
 - **Ms. Uyen & Ms. Thao** - Software Engineers at Gotamic (Hackathon Winners).
 - **Enterprise Tech Experts** - Representatives from the Technology and Risk Management Divisions at VPBank.
 
