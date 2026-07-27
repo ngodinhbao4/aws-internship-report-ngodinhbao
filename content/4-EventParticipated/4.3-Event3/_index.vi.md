@@ -3,7 +3,7 @@ title: "Event3: FCAJ x Agentic AI Build Week"
 date: 2026-07-25
 weight: 4
 chapter: false
-pre: " <b> 4.4. </b> "
+pre: " <b> 4.3. </b> "
 ---
 
 {{% notice info %}}
